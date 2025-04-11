@@ -48,6 +48,8 @@ A developer reputation system to boost activity and trust in the TON ecosystem
 - Blockchain Development (TON Focus)  
 - UI/UX Design 
 
+<br>
+
 <p align="center">
   <em>Let's build the future of TON together!</em>
 </p>
